@@ -1,5 +1,9 @@
 # 📊 Excel Salary Dashboard — Data Jobs (2023)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-4f9cf7?style=for-the-badge)](https://KrishnaSai315.github.io/Excel-Salary-Dashboard/excel_salary_dashboard_demo.html)
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![Dataset](https://img.shields.io/badge/Dataset-32K%20Records-orange?style=for-the-badge)]()
+
 > An interactive Excel dashboard for exploring real-world data science job salaries across job titles, countries, and schedule types.
 
 ---
