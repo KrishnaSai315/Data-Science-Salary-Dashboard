@@ -42,7 +42,7 @@ The dataset contains **real-world data science job listings from 2023**, coverin
 
 ## Live Demo
 
-👉 **[View Interactive Demo](https://KrishnaSai315.github.io/Excel-Salary-Dashboard/excel_salary_dashboard_demo.html)** — open in any browser, no Excel required.
+👉 **[View Interactive Demo][![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-4f9cf7?style=for-the-badge)](https://KrishnaSai315.github.io/Data-Science-Salary-Dashboard/excel_salary_dashboard_demo.html)** — open in any browser, no Excel required.
 
 ---
 
